@@ -26,8 +26,8 @@ To be updated soon.
 ## Certificate
 
 <p float="left">
-  <img src="https://github.com/ksatriow/iClassify/assets/certificate_basic_ml.jpg" alt="certificate" width="100"/>
-  <img src="https://github.com/ksatriow/iClassify/assets/review.png" alt="review" width="100"/>
+  <img src="https://github.com/ksatriow/iClassify/blob/main/assets/certificate_basic_ml.jpg" alt="certificate" width="100"/>
+  <img src="https://github.com/ksatriow/iClassify/blob/main/assets/review.png" alt="review" width="100"/>
 </p>
 
 # Contribution
